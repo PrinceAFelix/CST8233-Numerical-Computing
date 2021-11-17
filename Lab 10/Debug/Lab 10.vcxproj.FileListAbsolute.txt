@@ -1,0 +1,4 @@
+D:\CET - CS Year 2\Semester 2\CST 8233 Numerical Computing\Lab\Lab 10\Lab 10\Debug\Lab 10.exe
+D:\CET - CS Year 2\Semester 2\CST 8233 Numerical Computing\Lab\Lab 10\Lab 10\Debug\Lab 10.pdb
+D:\CET-CSYear2\Semester2\CST 8233 Numerical Computing\Lab\Lab 10\Lab 10\Debug\Lab 10.exe
+D:\CET-CSYear2\Semester2\CST 8233 Numerical Computing\Lab\Lab 10\Lab 10\Debug\Lab 10.pdb
